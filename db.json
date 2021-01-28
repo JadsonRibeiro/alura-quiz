@@ -1,28 +1,90 @@
 {
-  "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "bg": "https://cdn.pixabay.com/photo/2016/08/24/14/29/earth-1617121_960_720.jpg",
+  "title": "Quiz Capitais (Brasil e outros países)",
+  "description": "Teste os seus conhecimentos sobre as capitais (Brasil e outros países)",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/14/14/afghanistan-162218_960_720.png",
+      "title": "Qual a capital do Afeganistão?",
       "description": "Essa é pra aquecer",
-      "answer": 2,
+      "answer": 1,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Cairo",
+        "Cabul",
+        "Tirana",
+        "Marrocos"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://media.giphy.com/media/ntZpEU8efQJrO/giphy.gif",
+      "title": "Qual a capital da Argentina?",
+      "description": "Essa tá fácil",
+      "answer": 2,
+      "alternatives": [
+         "Quito",
+         "Santa Plata",
+         "Buenos Aires",
+         "Viena"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/26BRFVywkb1lkbz1K/giphy.gif",
+      "title": "Qual a capital do Chile?",
+      "description": "Chi chi chi, le le le...",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Santiago",
+         "Rio Negro",
+         "Bogotá",
+         "São José"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/vYRlHW3gw4VuU/giphy.gif",
+      "title": "Qual a capital da Coreia do Norte?",
+      "description": "Se você errar, um míssel cairá na sua cabeça",
+      "answer": 3,
+      "alternatives": [
+         "Seul",
+         "Pequin",
+         "Hanói",
+         "Pionguiangue"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/JYw0JDuVLzOCE8awgo/giphy.gif",
+      "title": "Qual a capital do Ceará?",
+      "description": "A terra do sol",
+      "answer": 0,
+      "alternatives": [
+         "Fortaleza",
+         "Natal",
+         "Recife",
+         "Salvador"
+      ]
+    },
+    {
+      "image": "https://mid.curitiba.pr.gov.br/2020/capa/00305108.jpg",
+      "title": "Qual a capital do Paraná?",
+      "description": "Dica: Cocha",
+      "answer": 1,
+      "alternatives": [
+         "Florianópolis",
+         "Curitiba",
+         "Belo Horizonte",
+         "São Paulo"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/DwP0pu4G2JS9cIsU22/giphy.gif",
+      "title": "Qual a capital da Grécia?",
+      "description": "Papastadopôulos queridus",
+      "answer": 2,
+      "alternatives": [
+         "Marrocos",
+         "Vaticano",
+         "Atenas",
+         "Antenas"
       ]
     }
   ],
